@@ -5,7 +5,12 @@ multiple choice
 
 
 TianKong
+11.1:s0=[]
+11.2:if item not in lir:
+11.3:lir = lir.add(item)
+11.4:removeDup(l0)
 
+tainanle !!!
 
 GaiCuo：
 tai nan le,zhang ge lai!!!
