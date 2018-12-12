@@ -8,7 +8,7 @@ TianKong
 
 
 GaiCuo：
-
+tai nan le,zhang ge lai!!!
 
 
 
@@ -48,6 +48,23 @@ print(newRectangle.rectangle_area())
 
 
 Big Q No.3:
+import pandas as pd
+import numpy as np
+import sklearn as sl
+import matplotlib.pyplot as plt
+import seaborn as sn
+
+
+import matplotlib
+%matplotlib inline
+matplotlib.use
+import matplotlib.pyplot as plt
+plt.style.use("dark_background")
+# plt.style.use("default")
+%config InlineBackend.figure_format = 'svg'  # improve figure quality in jupyter notebook
+
+# read data from file
+ds0 = pd.read_csv("stockprices.csv",sep=" ", header=None )
 
 
 
