@@ -13,8 +13,14 @@ GaiCuo：
 
 
 
-Big Q No.1:
-
+14:
+# program for 14.
+import string
+n = input()
+def capitalize():
+    result = string.capwords(n)
+    return result
+print(capitalize())
 
 
 
