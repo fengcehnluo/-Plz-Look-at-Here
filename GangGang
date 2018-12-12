@@ -3,16 +3,17 @@ multiple choice写选择题的人死了吗？？？？
 6-10：
 1.  A   2.  A   3.  A   4.  A 不确定   5.  A
 6.  B   7.  D 不确定   8.  B   9.  D  10. D
-(不确定，意思是我自己做的)
+
 
 TianKong 快传！！
 11.1:li0 = [ 10, 20, 10, 30, 42, 5, 8, 20]
 11.2:if item not in lir
 11.3:lir.append(item)
 11.4:print(lir)
+还有！！！！！
 
 GaiCuo：
-我来！！老谢专心写最后一题
+
 
 
 
